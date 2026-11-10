@@ -71,6 +71,10 @@ See [docs/design.md](docs/design.md) for fingerprinting, flapping, scoring and t
 - Single instance only; there is no locking or sharing between replicas.
 - No rate limiting on the webhook route.
 
+## Licence
+
+MIT. See [LICENSE](LICENSE).
+
 ## Layout
 
 ```
